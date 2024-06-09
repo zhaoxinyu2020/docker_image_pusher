@@ -1,2 +1,1 @@
-mysql:8.0.29
-jenkins/jenkins:lts-centos7
+jenkins/jenkins:lts-jdk11
