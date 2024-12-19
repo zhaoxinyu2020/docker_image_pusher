@@ -1,1 +1,1 @@
-nginx
+itzg/minecraft-server
