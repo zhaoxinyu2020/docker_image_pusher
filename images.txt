@@ -1,2 +1,2 @@
-ollama/ollama
-1panel/maxkb
+openjdk:17-jdk-alpine
+mongo:5.0
