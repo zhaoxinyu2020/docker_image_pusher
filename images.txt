@@ -1,2 +1,2 @@
-openjdk:17-jdk-alpine
-mongo:5.0
+kibana:8.13.4
+elastic/elasticsearch:8.13.4
