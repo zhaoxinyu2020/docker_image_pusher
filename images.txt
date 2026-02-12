@@ -1,1 +1,1 @@
-rabbitmq:3.8.3-management
+consul:1.17
