@@ -1,1 +1,1 @@
-consul:1.17
+hashicorp/consul:1.10.8
